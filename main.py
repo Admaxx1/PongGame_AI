@@ -12,7 +12,7 @@ AISWITCH = True
 
 # Score
 
-player_1 = 0
+player_1 = 10
 player_2 = 0
 
 
